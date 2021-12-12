@@ -1,1 +1,7 @@
+# Cargo files and build products
+
 /target
+Cargo.lock
+
+# Emacs
+*~
